@@ -20,5 +20,5 @@ const nextConfig = {
     ],
   },
 };
-
+// next config mjs
 export default nextConfig;
