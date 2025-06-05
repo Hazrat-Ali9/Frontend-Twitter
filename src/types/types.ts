@@ -32,3 +32,4 @@ export type TComment = {
   updatedAt: string;
   __v: number;
 };
+// Types
